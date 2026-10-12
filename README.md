@@ -1,4 +1,3 @@
-# matkins8943.github.io
 # **UFO Sighting Analysis**
 By: Macey Atkins and Saanvi Nair
 
