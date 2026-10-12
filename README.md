@@ -12,6 +12,9 @@ We plan to continue using text messaging as the primary form of communication. W
 https://www.kaggle.com/datasets/ahemateja19bec1025/ufosightingsdataset 
 
 # **Dataset 1**
+import matplotlib.pyplot as plt
+import numpy as np
+import io
 import pandas as pd
 df1 = pd.read_csv("UFO_Sightings.csv")
 display(df1)
